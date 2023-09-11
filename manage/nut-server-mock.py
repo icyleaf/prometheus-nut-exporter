@@ -28,7 +28,7 @@ BEGIN LIST VAR alpha
 VAR alpha battery.charge "100"
 VAR alpha battery.charge.low "10"
 VAR alpha battery.charge.warning "20"
-VAR alpha battery.mfr.date "1"
+VAR alpha battery.mfr.date "2005/04/02"
 VAR alpha battery.runtime "1320"
 VAR alpha battery.runtime.low "300"
 VAR alpha battery.type "PbAcid"

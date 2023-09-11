@@ -2,7 +2,7 @@ BEGIN LIST VAR ups-4
 VAR ups-4 battery.charge "100"
 VAR ups-4 battery.charge.low "10"
 VAR ups-4 battery.charge.warning "20"
-VAR ups-4 battery.mfr.date "1"
+VAR ups-4 battery.mfr.date "2005/04/02"
 VAR ups-4 battery.runtime "1320"
 VAR ups-4 battery.runtime.low "300"
 VAR ups-4 battery.type "PbAcid"

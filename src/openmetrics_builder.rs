@@ -94,6 +94,8 @@ fn print_ups_info_metric(ups: &str, vars: &VarMap) -> String {
     add_var_label("manufacturing_date", "device.mfr.date");
     add_var_label("model", "device.model");
     add_var_label("battery_type", "battery.type");
+    add_var_label("battery_date", "battery.date");
+    add_var_label("battery_manufacturing_date", "battery.mfr.date");
     add_var_label("driver", "driver.name");
     add_var_label("driver_version", "driver.version");
     add_var_label("driver_version_internal", "driver.version.internal");
